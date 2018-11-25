@@ -1,6 +1,4 @@
-﻿
-
----
+﻿---
 layout:     post   				    # 使用的布局（不需要改）
 title:      UEFI、BIOS、GPT、MBR等概念的辨析 				#  标题
 subtitle:   Hello World, Hello Blog #副标题
